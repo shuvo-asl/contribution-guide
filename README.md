@@ -9,7 +9,9 @@ This is the guideline to contribute **ASL Tech & Devs Team**. Basically we are u
     - NO `_` will not allow in `DATE`. Example `20240331`.
 - When you push your commit into the `GIT` on that time you have to maintain commitlint rules.
 - Once you complete your task then create a PR from `feature branch` to `stage branch`.
-    - In PR details you have to mention all of the change log
+    - In PR details you have to mention all of the change log.
+    - Set the reviewers.
+    - Set the `PR` label & Assigne.
 - Update your  `ASANA` board from `progress` to `done`. Also you have to update add the PR link as comment in your task.
 
 ## Some useful links
