@@ -1,5 +1,5 @@
-# Contribution guidelines for the Athe SL Tech & Devs Team
-This is the guideline to contribute **ASL Tech & Devs Team**. Basically we are using **GIT & Github** for a version control system. If you want to contribute to our projects, then you have to know about **GIT** and be familiar with **Github**. When you want to contribute to the projects, you have to maintain the following rules:
+# Contribution guidelines for the the SL Tech & Devs Team
+This is the guideline to contribute **ASL Tech & Devs Team**. Basically, we are using **GIT & Github** for a version control system. If you want to contribute to our projects, then you have to know about **GIT** and be familiar with **GitHub**. When you want to contribute to the projects, you have to maintain the following rules:
 
 - You have to update your `ASANA` board from `Not Started/ New Requests` to `In Progress`.
 - Create a new branch for your assigned task by the following rules:
